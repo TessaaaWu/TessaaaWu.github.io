@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="../files/CV-Sihong Wu-092024.pdf" target="_blank" rel="noopener noreferrer">&#128196; Download my full CV in PDF</a>
+<a href="../files/CV-Sihong Wu.pdf" target="_blank" rel="noopener noreferrer">&#128196; Download my full CV in PDF</a>
 
 {% include base_path %}
 <h2>Education</h2>
