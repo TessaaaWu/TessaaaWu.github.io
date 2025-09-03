@@ -10,7 +10,7 @@ redirect_from:
 
 <h3>Hi there, I'm Sihong Wu &#128075;</h3>
 <p align = "justify"> 
-I am currently a postdoctoral research fellow in the Department of Earth, Atmospheric, and Planetary Sciences at the Massachusetts Institute of Technology, working with Dr. <a href="https://scholar.google.com/citations?user=DkU6jJgAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Aimé Fournier</a> and Dr. <a href="https://math.mit.edu/icg/people/laurent.html" target="_blank" rel="noopener noreferrer">Laurent Demanet</a>. My research focuses on uncertainty quantification in geophysical inverse problems, machine learning, and geo-electromagnetic methods.
+I am currently a postdoctoral research fellow in the Department of Earth, Atmospheric, and Planetary Sciences at the Massachusetts Institute of Technology, working with <a href="https://scholar.google.com/citations?user=DkU6jJgAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Dr. Aimé Fournier</a> and <a href="https://math.mit.edu/icg/people/laurent.html" target="_blank" rel="noopener noreferrer">Dr. Laurent Demanet</a>. My research focuses on uncertainty quantification in geophysical inverse problems, machine learning, and geo-electromagnetic methods.
 </p> 
 
 <p align = "justify"> 
