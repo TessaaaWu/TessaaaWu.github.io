@@ -31,7 +31,7 @@ I obtained my BS in Geophysics in 2016 from the <a href="https://en.wikipedia.or
   
 <ul>
 <li>Uncertainty quantification of geophysical inverse problems based on machine learning techniques</li>
-<li>Deep learning-based signal processing, modeling, imaging, uncertainty quantification of electromagnetic data, especially airborne electromagnetic data</li>
+<li>Deep learning-based signal processing, modeling, imaging, uncertainty quantification of geo-electromagnetic data</li>
 <li>Near-surface hydrological investigation</li>
 <li>Geothermal exploration</li>
 </ul>
