@@ -17,21 +17,27 @@ redirect_from:
 
 <h2>Appointments</h2>
 <ul>
-<li>2023-present: Postdoctoral Researcher</li>
+<li>2025-present: Postdoctoral Researcher</li>
+  <ul>
+  <li>Department of Earth, Atmospheric, and Planetary Sciences, Massachusetts Institute of Technology, MA, USA</li>
+  <li>Supervisor: Dr. Aimé Fournier, Dr. Laurent Demanet</li>
+  </ul>
+<li>2023-2025: Postdoctoral Researcher</li>
   <ul>
   <li>Department of Earth & Atmospheric Sciences, University of Houston, TX, USA</li>
   <li>Department of Department of Electrical and Computer Engineering, University of Houston, TX, USA</li>
-  <li>Supervisor: Prof. Jiajia SUN, Prof. Jiefu CHEN</li>
+  <li>Supervisor: Dr. Jiajia Huang, Dr. Jiefu Huang</li>
   </ul>
 <li>2021-2023: Postdoctoral Researcher</li>
   <ul>
   <li>Department of Geophysics, Peking University, Beijing, China</li>
-  <li>Supervisor: Prof. Qinghua HUANG</li>
+  <li>Supervisor: Dr. Qinghua Huang</li>
   </ul>
 </ul>
 
 <h2>Research Grants</h2>
 <ol reversed>
+<li><strong>Co-Principal Investigator.</strong> Grants to Enhance and Advance Research at the University of Houston. <i>An integrated framework for natural hydrogen reservoir identification through geophysical, geological, and machine learning approaches</i>.Project period: 04/2025-10-2026. Funding: 40,000 USD.</li>
 <li><strong>Principal Investigator.</strong> National Natural Science Foundation of China. No. 42204074. <i>De-noising of airborne transient electromagnetic data based on deep learning</i>. Project period: 01/2023-12/2024. Funding: 200,000 RMB.</li>
 <li><strong>Principal Investigator.</strong> China Postdoctoral Science Foundation. No. 2022M720214. <i>Bayesian inversion of airborne electromagnetic data based on deep learning</i>. Project period: 01/2023-12/2024. Funding: 80,000 RMB.</li>
 <li><strong>Collaborator.</strong> National Natural Science Foundation of China. No. U2239201. <i>Study on the spatiotemporal characteristics of seismic electromagnetic anomalies in the Sichuan-Yunnan region and their relationship with seismic activity</i>. Project period: 01/2023-12/2026. Funding: 2,870,000 RMB.</li>
@@ -42,6 +48,7 @@ redirect_from:
 
 <h2>Honors and Awards</h2>
 <ul>
+<li><strong>2025</strong>	GWH Award for Excellence in Electrical Geophysics, Hohmann Wannamaker Trust</li>  
 <li><strong>2022</strong>	Outstanding Doctoral Dissertation Award, Chinese Geophysical Society</li>
 <li><strong>2021</strong>	Excellent Graduate Award, Peking University</li>
 <li><strong>2020</strong>	Outstanding Student Presentation Award, Chinese Geosciences Union Annual Meeting</li>
