@@ -37,7 +37,7 @@ redirect_from:
 
 <h2>Research Grants</h2>
 <ol reversed>
-<li><strong>Co-Principal Investigator.</strong> Grants to Enhance and Advance Research at the University of Houston. <i>An integrated framework for natural hydrogen reservoir identification through geophysical, geological, and machine learning approaches</i>.Project period: 04/2025-10-2026. Funding: 40,000 USD.</li>
+<li><strong>Co-Principal Investigator.</strong> Grants to Enhance and Advance Research at the University of Houston. <i>An integrated framework for natural hydrogen reservoir identification through geophysical, geological, and machine learning approaches</i>. Project period: 04/2025-10-2026. Funding: 40,000 USD.</li>
 <li><strong>Principal Investigator.</strong> National Natural Science Foundation of China. No. 42204074. <i>De-noising of airborne transient electromagnetic data based on deep learning</i>. Project period: 01/2023-12/2024. Funding: 200,000 RMB.</li>
 <li><strong>Principal Investigator.</strong> China Postdoctoral Science Foundation. No. 2022M720214. <i>Bayesian inversion of airborne electromagnetic data based on deep learning</i>. Project period: 01/2023-12/2024. Funding: 80,000 RMB.</li>
 <li><strong>Collaborator.</strong> National Natural Science Foundation of China. No. U2239201. <i>Study on the spatiotemporal characteristics of seismic electromagnetic anomalies in the Sichuan-Yunnan region and their relationship with seismic activity</i>. Project period: 01/2023-12/2026. Funding: 2,870,000 RMB.</li>
@@ -62,6 +62,12 @@ redirect_from:
 
 <h2>Services</h2>
 <h3>Professional organizations and meetings</h3>
+<strong>2025</strong>
+<ul>
+<li><strong>Session co-chair</strong> for for GM 2 Interpretation and Case Studies. IMAGE, Houston, TX, USA</li>
+<li><strong>Session co-chair</strong> for NEF 2 Geothermal and Critical Minerals. IMAGE, Houston, TX, USA</li>
+<li><strong>Session co-chair</strong> for NEF P4 Geologic Hydrogen 2. IMAGE, Houston, TX, USA</li>
+</ul>
 <strong>2024</strong>
 <ul>
 <li><strong>Session convener</strong> for T001-I. Advances in machine learning applications in marine geosciences: from data acquisition and analysis to interpretation across varied marine environments and scales. AGU, Washington, D.C., USA</li>
@@ -83,6 +89,7 @@ redirect_from:
 <li><i>IEEE Journal of Selected Topics in Signal Processing</i>,</li>
 <li><i>Geophysics</i>,</li>
 <li><i>Geophysical Prospecting</i>,</li>
+<li><i>Earth, Planets and Space</i></li>
 <li><i>Chinese Journal of Geophysics</i></li>
 </ul>
 
