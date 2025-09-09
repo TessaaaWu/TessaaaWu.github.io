@@ -26,9 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : 
                       <strong>Postdoctoral Research Fellow</strong><br>
-                      Massachusetts Institute of Technology
   location         : "Cambridge, MA"
-  employer         : #"Massachusetts Institute of Technology"
+  employer         : "MIT"
   uri              : # URL
   email            : "sihongwu@mit.edu" 
 
