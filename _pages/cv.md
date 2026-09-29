@@ -20,7 +20,7 @@ redirect_from:
 <li>2025-present: Postdoctoral Researcher</li>
   <ul>
   <li>Department of Earth, Atmospheric, and Planetary Sciences, Massachusetts Institute of Technology, MA, USA</li>
-  <li>Supervisor: Dr. Aimé Fournier, Dr. Laurent Demanet</li>
+  <li>Supervisor: Dr. Laurent Demanet, Dr. Aimé Fournier</li>
   </ul>
 <li>2023-2025: Postdoctoral Researcher</li>
   <ul>
