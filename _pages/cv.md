@@ -25,8 +25,8 @@ redirect_from:
 <li>2023-2025: Postdoctoral Researcher</li>
   <ul>
   <li>Department of Earth & Atmospheric Sciences, University of Houston, TX, USA</li>
-  <li>Department of Department of Electrical and Computer Engineering, University of Houston, TX, USA</li>
-  <li>Supervisor: Dr. Jiajia Huang, Dr. Jiefu Huang</li>
+  <li>Department of Electrical and Computer Engineering, University of Houston, TX, USA</li>
+  <li>Supervisor: Dr. Jiajia Sun, Dr. Jiefu Chen</li>
   </ul>
 <li>2021-2023: Postdoctoral Researcher</li>
   <ul>
