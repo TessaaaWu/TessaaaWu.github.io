@@ -26,6 +26,10 @@ I obtained my BS in Geophysics in 2016 from the <a href="https://en.wikipedia.or
 </p>
 
 <p align = "justify"> 
+I am the recipient of the <strong>2025 GWH Award for Excellence in Electrical Geophysics</strong> from the Hohmann Wannamaker Trust.
+</p>
+
+<p align = "justify"> 
 <strong>My research interests include:</strong>
 </p>
   
