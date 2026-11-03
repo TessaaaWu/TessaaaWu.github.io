@@ -10,23 +10,11 @@ redirect_from:
 
 <h3>Hi there, I'm Sihong Wu &#128075;</h3>
 <p align = "justify"> 
-I am currently a postdoctoral research fellow in the Department of Earth, Atmospheric, and Planetary Sciences at the Massachusetts Institute of Technology, working with <a href="https://math.mit.edu/icg/people/laurent.html" target="_blank" rel="noopener noreferrer">Dr. Laurent Demanet</a> and <a href="https://scholar.google.com/citations?user=DkU6jJgAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Dr. Aimé Fournier</a>. My research focuses on uncertainty quantification in geophysical inverse problems, machine learning, and geo-electromagnetic methods.
+I am a geophysicist who develops machine learning methods to see beneath the Earth&rsquo;s surface. I am broadly interested in turning sparse and heterogeneous geophysical datasets into subsurface images with quantified uncertainty, and in what those images reveal about groundwater, geothermal systems, critical minerals, natural hydrogen, and the structure and evolution of the crust and upper mantle. My research spans the path from raw data to interpretation, from deep learning for signal denoising and fast forward simulation to Bayesian and generative approaches to probabilistic inversion, with electromagnetic methods as my home ground and extensions to magnetic, gravity, ground-penetrating radar, and borehole data. These methods make probabilistic imaging possible at continental scale at a fraction of the cost of conventional approaches. Those efforts were recognized with the 2025 GWH Award for Excellence in Electrical Geophysics from the Hohmann Wannamaker Trust.
 </p> 
 
 <p align = "justify"> 
-I obtained my PhD in Geophysics in 2021 from <a href="https://english.pku.edu.cn" target="_blank" rel="noopener noreferrer">Peking University</a> (PKU), China, under the supervision of <a href="https://scholar.google.com/citations?user=mvImZ_oAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Prof. Qinghua Huang</a>, and continued at PKU as a postdoctoral researcher , where I worked on deep learning-based processing, simulation, inversion and uncertainty quantification for geo-electromagnetic data.
-</p>
-
-<p align = "justify"> 
-From 2023 to 2024, I was a postdoctoral fellow at the University of Houston, where I collaborated with <a href="https://sites.google.com/view/jiajiasun" target="_blank" rel="noopener noreferrer">Dr. Jiajia Sun</a> and  <a href="https://modal.ece.uh.edu/" target="_blank" rel="noopener noreferrer">Dr. Jiefu Chen</a> and focused on uncertainty quantification in geophysical inversion, natural hydrogen exploration, and the study of oceanic plateaus using marine magnetic data.
-</p>
-
-<p align = "justify">   
-I obtained my BS in Geophysics in 2016 from the <a href="https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young" target="_blank" rel="noopener noreferrer">Special Class for the Gifted Young</a> at the <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology in China</a> (USTC), China.
-</p>
-
-<p align = "justify"> 
-I am the recipient of the <strong>2025 GWH Award for Excellence in Electrical Geophysics</strong> from the Hohmann Wannamaker Trust.
+I am currently a postdoctoral researcher in the Department of Earth, Atmospheric, and Planetary Sciences at the Massachusetts Institute of Technology, where I work with <a href="https://math.mit.edu/icg/people/laurent.html" target="_blank" rel="noopener noreferrer">Dr. Laurent Demanet</a> and <a href="https://scholar.google.com/citations?user=DkU6jJgAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Dr. Aim&eacute; Fournier</a>. Prior to MIT, I was a postdoctoral researcher at the University of Houston, collaborating with <a href="https://sites.google.com/view/jiajiasun" target="_blank" rel="noopener noreferrer">Dr. Jiajia Sun</a> and <a href="https://modal.ece.uh.edu/" target="_blank" rel="noopener noreferrer">Dr. Jiefu Chen</a>, and at <a href="https://english.pku.edu.cn" target="_blank" rel="noopener noreferrer">Peking University</a> with <a href="https://scholar.google.com/citations?user=mvImZ_oAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Dr. Qinghua Huang</a>, where I also received my PhD in Geophysics in 2021. I received my BS in Geophysics from the <a href="https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young" target="_blank" rel="noopener noreferrer">Special Class for the Gifted Young</a> at the <a href="https://en.ustc.edu.cn/" target="_blank" rel="noopener noreferrer">University of Science and Technology of China</a> in 2016.
 </p>
 
 <p align = "justify"> 
